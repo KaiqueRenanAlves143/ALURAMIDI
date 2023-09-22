@@ -1,4 +1,4 @@
-alert('Flamengo');
+alert('Kaique');
 
 function tocaSomPom() { document.querySelector('.tecla_pom');
 }
@@ -35,6 +35,8 @@ document.querySelector('.tecla_tic').onclick = tocaSomTic;
 function tocaSomTom() { document.querySelector('.tecla_tom');
 }
 document.querySelector('.tecla_tom').onclick = tocaSomTom;
+
+
 
 
 
